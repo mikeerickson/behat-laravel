@@ -1,0 +1,23 @@
+{
+  "name": "laravel-rest",
+  "version": "0.0.1",
+  "description": "Sample Laravel Restified Application",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.8.*"
+  },
+  "devDependencies": {
+    "gulp-phpunit": "^0.5.1",
+    "gulp-notify": "^1.1.1",
+    "gulp-filelog": "~0.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git2.eu1.frbit.com:laravel-rest.git"
+  },
+  "author": "",
+  "license": "MIT"
+}
